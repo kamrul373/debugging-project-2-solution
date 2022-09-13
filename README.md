@@ -8,3 +8,5 @@
 5. A alert should appear after clicking on "Copy to clipboard" informing that the action was successful fixed
 6. Regenerate button should be able to regenerate a new password with the same given length. fixed
 7. User can toggle between raw text and hidden text in password section. fixed
+
+Project resource : https://github.com/mir-hussain/debugging-project-1
